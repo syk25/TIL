@@ -37,6 +37,7 @@
 ### 이진트리
 - 부모가 최대 2개의 자식노드를 가지는 트리
 - 트리의 좌우는 구분 됨
+
 ![image](https://github.com/syk25/TIL/assets/129013571/37eb70d5-728a-4609-b42a-df636a0ccdc5)
   
 
