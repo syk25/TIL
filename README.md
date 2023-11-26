@@ -15,6 +15,8 @@ This repository is a collection of my study notes of what I've learned.
 - [.gitignore 작성법](Tools/Git/gitignored.md)</br>
 
 ### etc
+-[dsl](etc/dsl.md)</br>
+-[build](etc/build.md)</br>
 
 
 
