@@ -6,6 +6,8 @@ This repository is a collection of my study notes of what I've learned.
 -[UML](UML/UML.md)</br>
 -[software complexity](UML/software-complexity.md)</br>
 -[모델링 순서](UML/modeling.md)</br>
+-[Requirement Model](UML/requirement_model.md)</br>
+-[Association](UML/association.md)</br>
 
 
 ### Data Structures and Algorithms
