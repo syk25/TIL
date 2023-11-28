@@ -1,6 +1,7 @@
 # TIL
 This repository is a collection of my study notes of what I've learned.
 
+## Software Engineering
 ### UML
 -[학습동기](UML/head.md)</br>
 -[UML](UML/UML.md)</br>
@@ -21,6 +22,7 @@ This repository is a collection of my study notes of what I've learned.
 ### etc
 -[dsl](etc/dsl.md)</br>
 -[build](etc/build.md)</br>
+-[sdk](etc/sdk.md)</br>
 
 
 
