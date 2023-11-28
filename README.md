@@ -22,10 +22,15 @@ This repository is a collection of my study notes of what I've learned.
 ### springboot
 - [스프링부트 개론](springboot/abstraction.md)</br>
 
+### Java
+- [어노테이션](java/annotation.md)</br>
+
 ### etc
 -[dsl](etc/dsl.md)</br>
 -[build](etc/build.md)</br>
 -[sdk](etc/sdk.md)</br>
+
+
 
 
 
