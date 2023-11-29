@@ -20,7 +20,8 @@ This repository is a collection of my study notes of what I've learned.
 - [.gitignore 작성법](Tools/Git/gitignored.md)</br>
 
 ### springboot
-- [스프링부트 개론](springboot/abstraction.md)</br>
+- [스프링부트 개론](springboot/abstract.md)</br>
+- [컨트롤러](springboot/MVC/controller.md)</br>
 
 ### Java
 - [어노테이션](java/annotation.md)</br>
