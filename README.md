@@ -16,6 +16,8 @@ This repository is a collection of my study notes of what I've learned.
 - [tree](DSA/tree.md)</br>
 - [Binary Search Tree](DSA/BST.md)</br>
 - [Prefix Sum Computation](DSA/prefex-computation.md)</br>
+- [2차원 구간합 배열](DSA/2d-prefix-permutation.md)</br>
+
 ### Git
 - [사용자 설정](Tools/Git/git-configuration.md)</br>
 - [.gitignore 작성법](Tools/Git/gitignored.md)</br>
