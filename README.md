@@ -15,10 +15,11 @@ This repository is a collection of my study notes of what I've learned.
 - [Transaction](database/transaction.md)</br>
 
 ### Data Structures and Algorithms
-- [tree](DSA/tree.md)</br>
-- [Binary Search Tree](DSA/BST.md)</br>
-- [Prefix Sum Computation](DSA/prefex-computation.md)</br>
+- [트리](DSA/tree.md)</br>
+- [이진탐색트리](DSA/BST.md)</br>
+- [누적합](DSA/prefex-computation.md)</br>
 - [2차원 구간합 배열](DSA/2d-prefix-permutation.md)</br>
+- [투포인터 알고리즘](DSA/two-pointer.md)</br>
 
 ### Git
 - [사용자 설정](Tools/Git/git-configuration.md)</br>
