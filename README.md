@@ -28,6 +28,7 @@ This repository is a collection of my study notes of what I've learned.
 ### springboot
 - [스프링부트 개론](springboot/abstract.md)</br>
 - [컨트롤러](springboot/MVC/controller.md)</br>
+- [embedded redis 설정](springboot/embedded-redis.md)</br>
 
 ### Java
 - [어노테이션](java/annotation.md)</br>
