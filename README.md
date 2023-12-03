@@ -15,6 +15,7 @@ This repository is a collection of my study notes of what I've learned.
 - [Transaction](database/transaction.md)</br>
 
 ### Data Structures and Algorithms
+- [정수 자료형과 숫자표](DSA/numbers.md)</br>
 - [트리](DSA/tree.md)</br>
 - [이진탐색트리](DSA/BST.md)</br>
 - [누적합](DSA/prefex-computation.md)</br>
